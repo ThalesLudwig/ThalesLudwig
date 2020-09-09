@@ -17,7 +17,7 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, reader, gamer, and enthusia
 ### 💜 Support
 
 Want to support my work or ask for something?
-- 🍕 Buy me a pizza: https://www.buymeacoffee.com/thalesludwig
+- 🍕 [Buy me a pizza](https://www.buymeacoffee.com/thalesludwig)
 
 <!--
 **ThalesLudwig/ThalesLudwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
