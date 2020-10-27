@@ -7,7 +7,7 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, reader, gamer, and enthusia
 - 🔭  I’m currently working with React
 - 🌱  I also specialize in Angular, Vue, Node and React Native
 - 😄  Working remotely! 
-- ⚡  Fun fact: I don't like coffee
+- :video_game:  Aspiring Game Developer
 
 ### 📫  How to reach me
 
@@ -17,7 +17,7 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, reader, gamer, and enthusia
 ### 💜  Support
 
 Want to support my work or ask for something?
-- 🍕  [Buy me a pizza](https://www.buymeacoffee.com/thalesludwig)
+- :coffee:   [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
 
 <!--
 **ThalesLudwig/ThalesLudwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
