@@ -1,35 +1,44 @@
 ![Go Beyond](https://media-exp1.licdn.com/dms/image/C5616AQFEXjY88dHjGQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1605139200&v=beta&t=czgvrFa2NJYoWzXK2GeuV6rcc1ORNKsp8M0U3I0-KUE)
 
-### 👋  Hi there 
+### Hi there <img src="./assets/wave.gif" width="30px">
+<br>
 
-I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, reader, gamer, and enthusiast for career growth and a remote lifestyle. I am an always-learning machine that converts energy-drinks into scalable Javascript code.
+I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for remote lifestyle. I am an always-learning machine that converts energy-drinks into scalable Javascript code.
 
-- 🔭  I’m currently working with React
-- 🌱  I also specialize in Angular, Vue, Node and React Native
+- ❤️  Currently working with React
+- 🌱  Also coding in Angular, Vue, Node and React Native
 - 😄  Working remotely! 
-- :video_game:  Aspiring Game Developer
+- 🎮  Aspiring Game Developer
+<br><br>
 
 ### 📫  How to reach me
+<br>
 
 - E-mail: thales.ludwig@gmail.com
-- Twitter: @thalesludwig
+<br><br>
+[<img src="./assets/twitter.png" width="30px">](https://twitter.com/ThalesLudwig)
+[<img src="./assets/instagram.jpg" width="30px">](https://www.instagram.com/thalesludwig/)
+[<img src="./assets/linkedin.png" width="30px">](https://www.linkedin.com/in/thalesludwig/)
+
+### ⭐  Languages and Tools
+<br>
+<img src="./assets/vscode.png" width="30px">
+<img src="./assets/javascript.png" width="30px">
+<img src="./assets/typescript.png" width="30px">
+<img src="./assets/react.png" width="30px">
+<img src="./assets/angular.svg" width="30px">
+<img src="./assets/vue.png" width="30px">
+<img src="./assets/nodejs.png" width="30px">
+<img src="./assets/html.png" width="30px">
+<img src="./assets/css.png" width="30px">
+<img src="./assets/sass.png" width="30px">
+<img src="./assets/github.png" width="30px">
+<img src="./assets/graphql.png" width="30px">
+<img src="./assets/mongodb.png" width="30px">
+<br><br>
 
 ### 💜  Support
+<br>
 
 Want to support my work or ask for something?
-- :coffee:   [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
-
-<!--
-**ThalesLudwig/ThalesLudwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img src="./assets/coffee.png" width="30px"> [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
