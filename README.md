@@ -22,23 +22,23 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 
 ### ⭐  Languages and Tools
 <br>
-<img src="./assets/vscode.png" width="30px">
-<img src="./assets/javascript.png" width="30px">
-<img src="./assets/typescript.png" width="30px">
-<img src="./assets/react.png" width="30px">
-<img src="./assets/angular.svg" width="30px">
-<img src="./assets/vue.png" width="30px">
-<img src="./assets/nodejs.png" width="30px">
-<img src="./assets/html.png" width="30px">
-<img src="./assets/css.png" width="30px">
-<img src="./assets/sass.png" width="30px">
-<img src="./assets/github.png" width="30px">
-<img src="./assets/graphql.png" width="30px">
-<img src="./assets/mongodb.png" width="30px">
-<br><br>
+<p float="left">
+  <img src="./assets/vscode.png" width="30px">
+  <img src="./assets/javascript.png" width="30px">
+  <img src="./assets/typescript.png" width="30px">
+  <img src="./assets/react.png" width="30px">
+  <img src="./assets/angular.svg" width="30px">
+  <img src="./assets/vue.png" width="30px">
+  <img src="./assets/nodejs.png" width="30px">
+  <img src="./assets/html.png" width="30px">
+  <img src="./assets/css.png" width="30px">
+  <img src="./assets/sass.png" width="30px">
+  <img src="./assets/github.png" width="30px">
+  <img src="./assets/graphql.png" width="30px">
+  <img src="./assets/mongodb.png" width="30px">
+</p>
 
 ### 💜  Support
-<br>
 
 Want to support my work or ask for something?
 - <img src="./assets/coffee.png" width="30px"> [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
