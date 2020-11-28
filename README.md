@@ -40,5 +40,5 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 
 ### 💜  Support
 
-Want to support my work or ask for something?
-- <img src="./assets/coffee.png" width="30px"> [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
+Want to support my work?
+- 🍕 [Buy me a pizza](https://www.buymeacoffee.com/thalesludwig)
