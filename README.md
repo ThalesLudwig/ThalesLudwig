@@ -1,5 +1,3 @@
-![Go Beyond](https://media-exp1.licdn.com/dms/image/C5616AQEnxHaX3OXFoA/profile-displaybackgroundimage-shrink_350_1400/0?e=1611187200&v=beta&t=68v_9URWnMJyFXcRCpKq71Yu4ov7rSaRtDkCu1QB3W4)
-
 ### Hi there <img src="./assets/wave.gif" width="30px">
 <br>
 
