@@ -10,6 +10,9 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 - 🎮  Aspiring Game Developer
 <br><br>
 
+### 💻  My portfolio
+- https://tludwig-portfolio.herokuapp.com/
+
 ### 📫  How to reach me
 <br>
 
@@ -40,4 +43,4 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 ### 💜  Support
 
 Want to support my work?
-- 🍕 [Buy me a pizza](https://www.buymeacoffee.com/thalesludwig)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
