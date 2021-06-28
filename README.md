@@ -12,15 +12,15 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 
 ### 💻  My portfolio
 - https://tludwig-portfolio.herokuapp.com/
+<br><br>
 
 ### 📫  How to reach me
-<br>
-
 - E-mail: thales.ludwig@gmail.com
 <br><br>
 [<img src="./assets/twitter.png" width="30px">](https://twitter.com/ThalesLudwig)
 [<img src="./assets/instagram.jpg" width="30px">](https://www.instagram.com/thalesludwig/)
 [<img src="./assets/linkedin.png" width="30px">](https://www.linkedin.com/in/thalesludwig/)
+<br><br>
 
 ### ⭐  Languages and Tools
 <br>
@@ -39,8 +39,8 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
   <img src="./assets/graphql.png" width="30px">
   <img src="./assets/mongodb.png" width="30px">
 </p>
+<br>
 
 ### 💜  Support
-
 Want to support my work?
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
