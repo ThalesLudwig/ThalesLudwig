@@ -5,6 +5,7 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 
 - ❤️  Currently working with React
 - 🌱  Also coding in Angular, Vue, Node and React Native
+- 👽 Starting with Kotlin and Swift
 - 😄  Working remotely! 
 - 🎮  Aspiring Game Developer
 <br><br>
