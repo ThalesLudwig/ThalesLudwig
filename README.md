@@ -11,7 +11,7 @@ I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for r
 <br><br>
 
 ### 💻  My portfolio
-- https://tludwig-portfolio.herokuapp.com/
+- https://thalesludwig.vercel.app/
 <br><br>
 
 ### 📫  How to reach me
