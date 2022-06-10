@@ -3,9 +3,10 @@
 
 I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for remote lifestyle. I am an always-learning machine that converts energy-drinks into scalable Javascript code.
 
-- ❤️  Currently working with React
+- ❤️  Currently working with React and Blockchain
 - 🌱  Also coding in Angular, Vue, Node and React Native
-- 👽 Starting with Flutter
+- 🔗  Build web3 apps for Ethereum Blockchain
+- 👽  Starting with Flutter
 - 😄  Working remotely! 
 - 🎮  Aspiring Game Developer
 <br><br>
