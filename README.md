@@ -1,7 +1,7 @@
 ### Hi there <img src="./assets/wave.gif" width="30px" height="30px">
 <br>
 
-I'm Thales Ludwig, Senior Web Engineer. UI/UX lover, gamer, and enthusiast for remote lifestyle. I am an always-learning machine that converts energy-drinks into scalable Javascript code.
+I'm Thales Ludwig, Senior Engineer working with Web, Mobile, and Blockchain technologies. UI/UX lover, gamer, and enthusiast for remote lifestyle. I am an always-learning machine that converts energy-drinks into scalable Javascript code.
 
 - ❤️  Currently working with React and Blockchain
 - 🌱  Also coding in Angular, Vue, Node and React Native
