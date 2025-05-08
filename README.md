@@ -33,8 +33,3 @@ I'm Thales Ludwig Valentini, Senior Full-stack Engineer working with Web, Mobile
   <img src="./assets/graphql.png" width="30px">
   <img src="./assets/mongodb.png" width="30px">
 </p>
-<br>
-
-### 💜  Support
-Want to support my work?
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/thalesludwig)
